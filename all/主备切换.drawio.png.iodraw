@@ -331,7 +331,7 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-53" target="3DHR4YdGZxATNbTgEq6I-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-53" value="当前是都是运行节点" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-53" value="当前是否是运行节点" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="380" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-55" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
