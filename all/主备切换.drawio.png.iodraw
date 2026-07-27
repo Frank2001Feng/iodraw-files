@@ -349,6 +349,9 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-58" target="3DHR4YdGZxATNbTgEq6I-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-58" target="3DHR4YdGZxATNbTgEq6I-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-58" value="是否有节点值班" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-710" y="619" width="120" height="80" as="geometry" />
         </mxCell>
@@ -384,6 +387,12 @@
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-75" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="339" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-77" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="328" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-78" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="629" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
