@@ -328,8 +328,14 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-50" value="退出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2080" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-53" target="3DHR4YdGZxATNbTgEq6I-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-53" value="当前是都是运行节点" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="380" width="110" height="80" as="geometry" />
+          <mxGeometry x="-200" y="380" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-55" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
