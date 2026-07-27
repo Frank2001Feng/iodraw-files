@@ -355,6 +355,9 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-66" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-130" y="790" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-67" value="值班节点心跳&lt;br&gt;是否超时" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1984" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
