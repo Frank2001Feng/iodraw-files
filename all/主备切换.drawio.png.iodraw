@@ -335,13 +335,8 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-171" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="1868" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-172" target="3DHR4YdGZxATNbTgEq6I-174">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-10" y="1900" />
-              <mxPoint x="-10" y="521" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-172" target="3DHR4YdGZxATNbTgEq6I-174">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-172" value="告警提示&lt;br&gt;本节点切主成功" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1870" width="120" height="60" as="geometry" />
