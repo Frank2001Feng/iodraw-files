@@ -134,7 +134,7 @@
           <mxGeometry x="480" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-91" value="退出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-93" target="3DHR4YdGZxATNbTgEq6I-95">
           <mxGeometry relative="1" as="geometry" />
@@ -342,7 +342,12 @@
           <mxGeometry x="560" y="2178" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-172" target="3DHR4YdGZxATNbTgEq6I-174">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="2210" />
+              <mxPoint x="-10" y="521" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-172" value="告警提示&lt;br&gt;本节点切主成功" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="2180" width="120" height="60" as="geometry" />
