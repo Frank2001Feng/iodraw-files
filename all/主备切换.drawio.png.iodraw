@@ -422,8 +422,14 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-142" value="等待自动切主" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-144" target="3DHR4YdGZxATNbTgEq6I-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-144" value="等待切主时间超阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1560" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-146" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
