@@ -304,11 +304,17 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-93" value="获取节点列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-95" target="3DHR4YdGZxATNbTgEq6I-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-95" value="市场周期计算开始" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-97" value="RDS读写是否正常" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="619" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-99" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="178" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
