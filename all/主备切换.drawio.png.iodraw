@@ -169,8 +169,11 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-103" value="OCS告警" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;size=0.08333333333333333;" vertex="1" parent="1">
           <mxGeometry x="480" y="575" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-105" target="3DHR4YdGZxATNbTgEq6I-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-105" value="保持冷备用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="469" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="461" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-108" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="575" width="40" height="30" as="geometry" />
@@ -233,7 +236,7 @@
           <mxGeometry x="410" y="1162" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-132" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1100" width="40" height="30" as="geometry" />
+          <mxGeometry x="340" y="1002" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-135" target="3DHR4YdGZxATNbTgEq6I-142">
           <mxGeometry relative="1" as="geometry" />
