@@ -286,7 +286,7 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-87" value="RDS读写是否正常" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-89" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-89" value="OCS告警" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
