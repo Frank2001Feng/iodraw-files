@@ -410,11 +410,13 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-132" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="1100" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-135" value="心跳超时告警" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-139" value="心跳是否超时" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1172" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
