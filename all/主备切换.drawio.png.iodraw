@@ -322,8 +322,14 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-100" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="288" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-103" target="3DHR4YdGZxATNbTgEq6I-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-103" value="OCS告警" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;size=0.08333333333333333;" vertex="1" parent="1">
           <mxGeometry x="480" y="629" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-105" value="保持冷备用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="629" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
