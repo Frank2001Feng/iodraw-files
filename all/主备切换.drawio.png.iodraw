@@ -352,8 +352,8 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-174" value="继续市场流程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="461" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-180" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1868" width="50" height="30" as="geometry" />
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-180" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1868" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
