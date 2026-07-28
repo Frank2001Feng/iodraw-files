@@ -205,7 +205,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-114" value="检测值班应用心跳" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-118" target="3DHR4YdGZxATNbTgEq6I-120">
           <mxGeometry relative="1" as="geometry" />
