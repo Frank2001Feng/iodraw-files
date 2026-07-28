@@ -404,8 +404,8 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-130" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="1162" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-132" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1098" width="50" height="30" as="geometry" />
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-132" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1100" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
