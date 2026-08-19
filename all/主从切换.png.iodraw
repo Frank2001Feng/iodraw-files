@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-126" value="心跳是否超时" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-61" y="709" width="120" height="80" as="geometry" />
+          <mxGeometry x="-62" y="709" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-132" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1" y="669" width="40" height="30" as="geometry" />
