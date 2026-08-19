@@ -121,8 +121,8 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3DHR4YdGZxATNbTgEq6I-135" target="3DHR4YdGZxATNbTgEq6I-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-135" value="心跳超时告警" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-59" y="830" width="120" height="60" as="geometry" />
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-135" value="心跳超时告警" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="-29" y="789" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-142" target="l0BOEgFRiptM-Y7imP93-27">
           <mxGeometry relative="1" as="geometry">
