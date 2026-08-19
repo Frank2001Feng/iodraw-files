@@ -138,7 +138,7 @@
         <mxCell id="l0BOEgFRiptM-Y7imP93-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-144" target="3DHR4YdGZxATNbTgEq6I-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-144" value="等待切主时间超阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-144" value="切主时间超阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-293" y="930" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-146" target="l0BOEgFRiptM-Y7imP93-26">
@@ -251,7 +251,10 @@
           <mxGeometry x="-640" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-26" value="心跳是否超时" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-63" y="1042" width="120" height="80" as="geometry" />
+          <mxGeometry x="-63" y="1058" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0BOEgFRiptM-Y7imP93-27" value="心跳是否超时" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-53" y="1068" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
