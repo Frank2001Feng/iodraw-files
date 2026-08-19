@@ -181,14 +181,9 @@
             <mxPoint x="-2" y="1147" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3DHR4YdGZxATNbTgEq6I-164" edge="1">
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3DHR4YdGZxATNbTgEq6I-164" target="l0BOEgFRiptM-Y7imP93-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-222" y="1270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-222" y="1235" />
-              <mxPoint x="-220" y="1235" />
-              <mxPoint x="-220" y="1270" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-164" value="本侧应用切值主" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -200,7 +195,7 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-167" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="78" y="1067" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="3DHR4YdGZxATNbTgEq6I-105" edge="1">
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="l0BOEgFRiptM-Y7imP93-36" target="3DHR4YdGZxATNbTgEq6I-105" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="278" y="909.0000000000002" as="targetPoint" />
             <mxPoint x="-152" y="1320" as="sourcePoint" />
