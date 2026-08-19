@@ -177,13 +177,6 @@
             <mxPoint x="297" y="909.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l0BOEgFRiptM-Y7imP93-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-161" target="3DHR4YdGZxATNbTgEq6I-164">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="17" y="1210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-161" value="是否切换成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-53" y="1060" width="140" height="100" as="geometry" />
         </mxCell>
