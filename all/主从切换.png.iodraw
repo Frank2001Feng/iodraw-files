@@ -244,6 +244,9 @@
         <mxCell id="l0BOEgFRiptM-Y7imP93-1" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="377" y="519" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="l0BOEgFRiptM-Y7imP93-4" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="387" y="529" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
