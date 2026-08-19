@@ -115,11 +115,6 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3DHR4YdGZxATNbTgEq6I-126" target="3DHR4YdGZxATNbTgEq6I-149" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l0BOEgFRiptM-Y7imP93-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-126">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-126" value="心跳是否超时" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="537" y="788" width="120" height="80" as="geometry" />
         </mxCell>
@@ -169,7 +164,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-149" value="是否发送过&lt;br&gt;心跳超时告警" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="537" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="750" y="788" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3DHR4YdGZxATNbTgEq6I-153" target="3DHR4YdGZxATNbTgEq6I-105" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -243,7 +238,7 @@
           <mxGeometry x="910" y="800" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-6" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="790" y="800" width="40" height="30" as="geometry" />
+          <mxGeometry x="810" y="880" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-9" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="617" y="1170" width="40" height="30" as="geometry" />
@@ -252,7 +247,7 @@
           <mxGeometry x="377" y="1290" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-11" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="880" width="40" height="30" as="geometry" />
+          <mxGeometry x="670" y="890" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
