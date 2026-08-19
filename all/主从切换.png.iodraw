@@ -248,6 +248,9 @@
         <mxCell id="l0BOEgFRiptM-Y7imP93-23" value="开始" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-640" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l0BOEgFRiptM-Y7imP93-26" value="心跳是否超时" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
