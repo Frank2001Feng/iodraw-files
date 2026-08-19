@@ -235,11 +235,8 @@
         <mxCell id="l0BOEgFRiptM-Y7imP93-9" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-123" y="950" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l0BOEgFRiptM-Y7imP93-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l0BOEgFRiptM-Y7imP93-10" target="3DHR4YdGZxATNbTgEq6I-144">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-203" y="1040" width="40" height="30" as="geometry" />
+          <mxGeometry x="-133" y="1050" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-11" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="789" width="40" height="30" as="geometry" />
