@@ -91,7 +91,7 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3DHR4YdGZxATNbTgEq6I-118" target="3DHR4YdGZxATNbTgEq6I-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3DHR4YdGZxATNbTgEq6I-118" target="3DHR4YdGZxATNbTgEq6I-126" edge="1">
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.504;exitY=0.946;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3DHR4YdGZxATNbTgEq6I-118" target="3DHR4YdGZxATNbTgEq6I-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-118" value="心跳获取是否正常" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
