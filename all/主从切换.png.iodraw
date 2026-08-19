@@ -260,7 +260,7 @@
         <mxCell id="l0BOEgFRiptM-Y7imP93-26" value="心跳是否超时" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-62" y="1030" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l0BOEgFRiptM-Y7imP93-27" value="心跳是否超时" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="l0BOEgFRiptM-Y7imP93-27" value="切主时间超阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-282" y="920" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
