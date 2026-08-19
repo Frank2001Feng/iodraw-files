@@ -231,7 +231,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-172" value="告警提示&lt;br&gt;本节点切主成功" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="127" y="1738" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3DHR4YdGZxATNbTgEq6I-174" target="3DHR4YdGZxATNbTgEq6I-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
