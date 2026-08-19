@@ -248,7 +248,7 @@
           <mxGeometry x="77" y="717" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-23" value="继续市场流程" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="-560" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
