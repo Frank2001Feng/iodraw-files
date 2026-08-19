@@ -180,6 +180,9 @@
             <mxPoint x="297" y="909.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="l0BOEgFRiptM-Y7imP93-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-161" target="3DHR4YdGZxATNbTgEq6I-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-161" value="是否切换成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-273" y="1190" width="140" height="100" as="geometry" />
         </mxCell>
@@ -190,7 +193,7 @@
           <mxGeometry x="-263" y="1469" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-166" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-203" y="1429" width="40" height="30" as="geometry" />
+          <mxGeometry x="-123" y="1410" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-167" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="1319" width="40" height="30" as="geometry" />
