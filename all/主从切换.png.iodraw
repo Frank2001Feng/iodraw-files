@@ -150,6 +150,9 @@
         <mxCell id="l0BOEgFRiptM-Y7imP93-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-146" target="3DHR4YdGZxATNbTgEq6I-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l0BOEgFRiptM-Y7imP93-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-146" target="3DHR4YdGZxATNbTgEq6I-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-146" value="对侧应用切离线" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-263" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
@@ -178,7 +181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-161" value="是否切换成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-273" y="1309" width="140" height="100" as="geometry" />
+          <mxGeometry x="-273" y="1190" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3DHR4YdGZxATNbTgEq6I-164" target="3DHR4YdGZxATNbTgEq6I-168" edge="1">
           <mxGeometry relative="1" as="geometry" />
