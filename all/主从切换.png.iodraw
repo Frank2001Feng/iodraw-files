@@ -134,7 +134,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-142" value="等待自动切主" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-253" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="-263" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3DHR4YdGZxATNbTgEq6I-144" target="3DHR4YdGZxATNbTgEq6I-146" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-144" value="等待切主时间超阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-263" y="930" width="140" height="100" as="geometry" />
+          <mxGeometry x="-273" y="930" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3DHR4YdGZxATNbTgEq6I-146" target="3DHR4YdGZxATNbTgEq6I-161" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -244,7 +244,7 @@
           <mxGeometry x="250" y="789" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-9" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="37" y="989" width="40" height="30" as="geometry" />
+          <mxGeometry x="-123" y="950" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-203" y="1109" width="40" height="30" as="geometry" />
