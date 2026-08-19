@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-144" value="等待切主时间超阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="307" y="1050" width="140" height="100" as="geometry" />
+          <mxGeometry x="307" y="1040" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3DHR4YdGZxATNbTgEq6I-146" target="3DHR4YdGZxATNbTgEq6I-161" edge="1">
           <mxGeometry relative="1" as="geometry" />
