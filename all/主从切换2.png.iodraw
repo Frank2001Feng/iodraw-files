@@ -239,9 +239,6 @@
         <mxCell id="l0BOEgFRiptM-Y7imP93-9" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-142" y="930" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l0BOEgFRiptM-Y7imP93-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-142" y="1037" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="l0BOEgFRiptM-Y7imP93-11" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1" y="782" width="40" height="30" as="geometry" />
         </mxCell>
