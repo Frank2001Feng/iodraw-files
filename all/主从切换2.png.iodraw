@@ -285,6 +285,9 @@
         <mxCell id="CYD2vfDUNzU5zaffXZzX-9" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-339" y="460" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CYD2vfDUNzU5zaffXZzX-11" value="启用当前节点&lt;br&gt;为主节点" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-639" y="513" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
