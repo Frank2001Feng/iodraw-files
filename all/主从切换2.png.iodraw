@@ -25,6 +25,9 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="3DHR4YdGZxATNbTgEq6I-93" target="3DHR4YdGZxATNbTgEq6I-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CYD2vfDUNzU5zaffXZzX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-93" target="CYD2vfDUNzU5zaffXZzX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-93" value="获取节点列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-282" y="161" width="120" height="60" as="geometry" />
         </mxCell>
@@ -263,8 +266,8 @@
         <mxCell id="l0BOEgFRiptM-Y7imP93-36" value="是否切换成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-282" y="1240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CYD2vfDUNzU5zaffXZzX-1" value="市场周期计算开始" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-272" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="CYD2vfDUNzU5zaffXZzX-2" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-82" y="161" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
