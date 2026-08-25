@@ -266,7 +266,7 @@
         <mxCell id="l0BOEgFRiptM-Y7imP93-36" value="是否切换成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-282" y="1240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CYD2vfDUNzU5zaffXZzX-2" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="CYD2vfDUNzU5zaffXZzX-2" value="启动心跳程序" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-82" y="161" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
