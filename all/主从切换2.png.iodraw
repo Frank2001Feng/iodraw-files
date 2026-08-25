@@ -76,18 +76,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-109" value="其他节点是否值班" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-282" y="558" width="120" height="80" as="geometry" />
+          <mxGeometry x="-282" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="3DHR4YdGZxATNbTgEq6I-111" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-579" y="598" as="targetPoint" />
+            <mxPoint x="-579" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-111" value="启用当前节点&lt;br&gt;为主节点" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-479" y="568" width="120" height="60" as="geometry" />
+          <mxGeometry x="-479" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-113" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-339" y="568" width="40" height="30" as="geometry" />
+          <mxGeometry x="-339" y="580" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="3DHR4YdGZxATNbTgEq6I-114" target="3DHR4YdGZxATNbTgEq6I-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
