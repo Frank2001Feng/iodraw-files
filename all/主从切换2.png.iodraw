@@ -212,6 +212,9 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-171" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-142" y="1330" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CYD2vfDUNzU5zaffXZzX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DHR4YdGZxATNbTgEq6I-172" target="CYD2vfDUNzU5zaffXZzX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3DHR4YdGZxATNbTgEq6I-172" value="告警提示&lt;br&gt;本节点切主成功" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-479" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
@@ -285,7 +288,7 @@
         <mxCell id="CYD2vfDUNzU5zaffXZzX-9" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-339" y="460" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CYD2vfDUNzU5zaffXZzX-11" value="启用当前节点&lt;br&gt;为主节点" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="CYD2vfDUNzU5zaffXZzX-11" value="主节点的参数初始化" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-639" y="513" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
