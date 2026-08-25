@@ -141,9 +141,9 @@
         <mxCell id="3DHR4YdGZxATNbTgEq6I-142" value="等待自动切主" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-282" y="899" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3DHR4YdGZxATNbTgEq6I-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.969;exitY=0.522;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;fontStyle=1" parent="1" source="l0BOEgFRiptM-Y7imP93-27" target="3DHR4YdGZxATNbTgEq6I-105" edge="1">
+        <mxCell id="3DHR4YdGZxATNbTgEq6I-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.969;exitY=0.522;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1" parent="1" source="l0BOEgFRiptM-Y7imP93-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="248" y="989.0000000000002" as="targetPoint" />
+            <mxPoint x="398" y="1044" as="targetPoint" />
             <mxPoint x="-152" y="1060.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
