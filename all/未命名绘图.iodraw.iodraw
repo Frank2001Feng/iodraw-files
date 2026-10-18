@@ -18,6 +18,9 @@
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-3" value="market_dbdata_ctl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="300" y="140" width="115" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MOh6QPqmBBLvpJp9SPGT-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="490" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
