@@ -42,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-15" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="440" width="450" height="40" as="geometry" />
+          <mxGeometry x="360" y="440" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=127.5;exitPerimeter=0;" edge="1" parent="1" source="MOh6QPqmBBLvpJp9SPGT-17">
           <mxGeometry relative="1" as="geometry">
@@ -72,7 +72,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.269;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dNxyNK7c78bLwvsdeMH5-11" target="MOh6QPqmBBLvpJp9SPGT-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-32" value="上传文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="408" width="70" height="30" as="geometry" />
