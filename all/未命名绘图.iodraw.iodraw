@@ -51,10 +51,10 @@
           <mxGeometry x="200" y="550" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-21" value="bak_dbdata_para" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="440" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-22" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14px; text-align: left;&quot;&gt;bak_dbdata_operation&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="530" width="140" height="60" as="geometry" />
+          <mxGeometry x="50" y="500" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
