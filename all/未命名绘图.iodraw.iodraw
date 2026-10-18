@@ -41,8 +41,11 @@
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-15" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="480" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MOh6QPqmBBLvpJp9SPGT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=127.5;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOh6QPqmBBLvpJp9SPGT-17" target="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-17" value="mktmom" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="235" y="190" width="85" height="180" as="geometry" />
+          <mxGeometry x="235" y="190" width="85" height="230" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MOh6QPqmBBLvpJp9SPGT-21" target="MOh6QPqmBBLvpJp9SPGT-17">
           <mxGeometry relative="1" as="geometry" />
