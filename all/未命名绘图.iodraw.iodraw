@@ -87,6 +87,9 @@
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-34" value="下载文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="695" y="408" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MOh6QPqmBBLvpJp9SPGT-37" value="读配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="208" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
