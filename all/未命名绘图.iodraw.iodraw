@@ -27,7 +27,7 @@
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-9" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&amp;lt;br/&amp;gt;10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&amp;lt;br/&amp;gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;脚本&lt;br&gt;bak_dbdata.py&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MOh6QPqmBBLvpJp9SPGT-11" value="其他界面交互接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MOh6QPqmBBLvpJp9SPGT-11" value="其他交互接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.216;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MOh6QPqmBBLvpJp9SPGT-9" target="dNxyNK7c78bLwvsdeMH5-11">
