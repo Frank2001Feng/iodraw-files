@@ -10,10 +10,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-4" value="market_dbdata_ctl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-5" value="market_dbdata_ctl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-6" value="market_dbdata_ctl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
