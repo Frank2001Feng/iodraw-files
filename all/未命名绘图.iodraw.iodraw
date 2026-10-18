@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-21" value="bak_dbdata&lt;br&gt;_para" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="90" height="60" as="geometry" />
+          <mxGeometry x="100" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MOh6QPqmBBLvpJp9SPGT-22" target="MOh6QPqmBBLvpJp9SPGT-17">
           <mxGeometry relative="1" as="geometry" />
