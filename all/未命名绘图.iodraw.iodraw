@@ -50,16 +50,6 @@
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-15" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MOh6QPqmBBLvpJp9SPGT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;" edge="1" parent="1" source="MOh6QPqmBBLvpJp9SPGT-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="230" />
-              <mxPoint x="340" y="230" />
-              <mxPoint x="340" y="231" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-17" value="mktmom" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="165" y="190" width="85" height="180" as="geometry" />
         </mxCell>
@@ -93,6 +83,12 @@
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-38" value="写记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MOh6QPqmBBLvpJp9SPGT-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
