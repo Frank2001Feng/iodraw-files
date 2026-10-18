@@ -79,7 +79,7 @@
           <mxGeometry x="695" y="408" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-37" value="读配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="208" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-38" value="写记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="290" width="60" height="30" as="geometry" />
@@ -87,7 +87,7 @@
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="230" as="sourcePoint" />
-            <mxPoint x="300" y="180" as="targetPoint" />
+            <mxPoint x="360" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
