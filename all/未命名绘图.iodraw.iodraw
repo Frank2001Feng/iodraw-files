@@ -77,6 +77,17 @@
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-34" value="下载文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="695" y="408" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MOh6QPqmBBLvpJp9SPGT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=127.5;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="327.6470588235294" as="targetPoint" />
+            <mxPoint x="330" y="328" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="330" y="329" />
+              <mxPoint x="340" y="329" />
+              <mxPoint x="340" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
