@@ -47,8 +47,8 @@
         <mxCell id="MOh6QPqmBBLvpJp9SPGT-21" value="bak_dbdata_para" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="95" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MOh6QPqmBBLvpJp9SPGT-22" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14px; text-align: left;&quot;&gt;bak_dbdata_operation&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="270" width="130" height="50" as="geometry" />
+        <mxCell id="MOh6QPqmBBLvpJp9SPGT-22" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14px; text-align: left;&quot;&gt;bak_dbdata&lt;br&gt;_operation&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
